@@ -1,0 +1,2 @@
+Used to Show a list of links (Youtube, Facebook, etc) in a table and open each in a WebView. The list is configured in Links.plist.
+Uses a navigation controller inside a tab bar controller.
