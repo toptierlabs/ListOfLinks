@@ -15,7 +15,7 @@
     UITabBarController *tabBarController;
     
 }
-@property (nonatomic, retain)  UITabBarController *tabBarController;
+@property (nonatomic, retain) IBOutlet UITabBarController *tabBarController;
 @property (nonatomic, retain) IBOutlet UIWindow *window;
 @property (nonatomic, retain)  NavController *navController;
 @property (nonatomic, retain)  ListOfLinksViewController *linksViewController;
