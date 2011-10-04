@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesStackState
+   version = "1.0">
+   <StackStates>
+      <StackState
+         stackFrameDescription = "-[ListOfLinksViewController tableView:didSelectRowAtIndexPath:]:ListOfLinksViewController.m">
+         <expressions>
+            <expression
+               value = "delegate.navController">
+            </expression>
+         </expressions>
+      </StackState>
+   </StackStates>
+</VariablesStackState>
